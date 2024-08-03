@@ -6,7 +6,7 @@
 - *🌱 I’m currently pursuing a Bachelor´s degree in Computer Sciences at Unesp*
 - *📕 I currently have knowledge in the following technologies: C, C++, Python, Java, JavaScript, HTML5, CSS, C#*
 - *📫 How to reach me: send me a message on Discord **(enzimas_turbo)** or send an email to enzo.paschoalini@unesp.br*
-- *⚡ Fun fact: I love racing and sports, I never turn down an invitation to go karting! Sometimes I play fun (and sometimes questionable) videogames...*
+- *⚡ Fun fact: I love racing and sports, I never turn down an invitation to go karting! Sometimes I play videogames (of questionable quality)...*
 
 ##
 
